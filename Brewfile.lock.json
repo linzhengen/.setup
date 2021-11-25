@@ -356,6 +356,12 @@
         "options": {
           "full_name": "karabiner-elements"
         }
+      },
+      "google-japanese-ime": {
+        "version": "latest",
+        "options": {
+          "full_name": "google-japanese-ime"
+        }
       }
     }
   },
@@ -364,7 +370,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.5",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "6c7fe7d18f9d77d0d5060e473fc20a50b313103d",
+        "Homebrew/homebrew-core": "4f213382ee28873f8ebdf4b31c1dba5894d50a8a",
         "CLT": "13.1.0.0.1.1633545042",
         "Xcode": "13.1",
         "macOS": "12.0.1"

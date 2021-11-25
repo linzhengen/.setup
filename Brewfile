@@ -8,7 +8,6 @@ brew "vim"
 brew "wget"
 brew "go"
 brew "jq"
-brew "nvm"
 brew "minikube"
 
 # 'brew install --cask'
@@ -23,3 +22,5 @@ cask "pycharm"
 cask "webstorm"
 cask "phpstorm"
 cask "karabiner-elements"
+cask "google-japanese-ime"
+
