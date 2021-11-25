@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+[user]
+	name = linzhengen
+	email = linzhengen@yahoo.co.jp
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
