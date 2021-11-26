@@ -2,7 +2,7 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "1fed44e89a8896f27e2b69a5789a3cd916d7abe5"
+        "revision": "4eb6074bff2bf699fe90dd79b845125e3e26a0ca"
       }
     },
     "brew": {
@@ -288,6 +288,30 @@
             }
           }
         }
+      },
+      "vips": {
+        "version": "8.12.0",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "arm64_big_sur": {
+              "cellar": "/opt/homebrew/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/vips/blobs/sha256:9c206cad02ae934f216167478d5581668eb8cc4d8d8686d87472fe20134db275",
+              "sha256": "9c206cad02ae934f216167478d5581668eb8cc4d8d8686d87472fe20134db275"
+            },
+            "big_sur": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/vips/blobs/sha256:2d91b5d2d16e652a53d9e899912e53a4a8cbdce1a65f7ec985d7a099da4b36f2",
+              "sha256": "2d91b5d2d16e652a53d9e899912e53a4a8cbdce1a65f7ec985d7a099da4b36f2"
+            },
+            "catalina": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/vips/blobs/sha256:47f82a66812ae720d142405c5f464104c757cfcd246f5550a19f2af649357dfb",
+              "sha256": "47f82a66812ae720d142405c5f464104c757cfcd246f5550a19f2af649357dfb"
+            }
+          }
+        }
       }
     },
     "cask": {
@@ -370,7 +394,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.5",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "4f213382ee28873f8ebdf4b31c1dba5894d50a8a",
+        "Homebrew/homebrew-core": "707a67dc7f29d410f58f542755ee9f2b9f5ff690",
         "CLT": "13.1.0.0.1.1633545042",
         "Xcode": "13.1",
         "macOS": "12.0.1"

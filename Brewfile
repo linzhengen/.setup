@@ -9,6 +9,7 @@ brew "wget"
 brew "go"
 brew "jq"
 brew "minikube"
+brew "vips"
 
 # 'brew install --cask'
 cask "google-chrome"
