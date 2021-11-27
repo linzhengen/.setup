@@ -13,6 +13,9 @@ brew "vips"
 brew "direnv"
 brew "golangci-lint"
 brew "skaffold"
+brew "helm"
+brew "kustomize"
+brew "helmfile"
 
 # 'brew install --cask'
 cask "google-chrome"
