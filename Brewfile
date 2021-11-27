@@ -12,6 +12,7 @@ brew "minikube"
 brew "vips"
 brew "direnv"
 brew "golangci-lint"
+brew "skaffold"
 
 # 'brew install --cask'
 cask "google-chrome"
