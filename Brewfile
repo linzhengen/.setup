@@ -10,6 +10,8 @@ brew "go"
 brew "jq"
 brew "minikube"
 brew "vips"
+brew "direnv"
+brew "golangci-lint"
 
 # 'brew install --cask'
 cask "google-chrome"
