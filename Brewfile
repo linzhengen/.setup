@@ -31,6 +31,7 @@ cask "webstorm"
 cask "phpstorm"
 cask "karabiner-elements"
 cask "google-japanese-ime"
+cask "mi"
 
 # 'mas install'
 mas "slack", id:803453959
