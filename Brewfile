@@ -17,6 +17,8 @@ brew "helm"
 brew "kustomize"
 brew "helmfile"
 brew "peco"
+brew "pnpm"
+brew "git-lfs"
 
 # 'brew install --cask'
 cask "google-chrome"
@@ -32,6 +34,7 @@ cask "phpstorm"
 cask "karabiner-elements"
 cask "google-japanese-ime"
 cask "mi"
+cask "cyberduck"
 
 # 'mas install'
 mas "slack", id:803453959
