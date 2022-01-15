@@ -19,6 +19,12 @@ brew "helmfile"
 brew "peco"
 brew "pnpm"
 brew "git-lfs"
+brew "graphviz"
+brew "plantuml"
+brew "tree"
+brew "protobuf"
+brew "protoc-gen-grpc-web"
+brew "grpcurl"
 
 # 'brew install --cask'
 cask "google-chrome"
